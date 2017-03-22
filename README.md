@@ -204,8 +204,7 @@ public class ToolsTestController {
     }
 }
 ```
-
-在consul使用如下配置:
+使用如下配置:
 
 ```
 com.lkl.framework.service.limiter.default.rate=20
