@@ -1,0 +1,17 @@
+/.settings/
+/target/
+/.classpath
+/.project
+
+/static-analysis/
+/.settings/
+target
+generated
+.*
+!.gitignore
+**/*.iml
+test-output/
+
+
+
+
